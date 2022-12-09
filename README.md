@@ -14,6 +14,11 @@ Clone o repositório:
 git clone https://github.com/eduardosantanna/crud-users-with-adonisjs.git
 ```
 
+Entre na pasta
+```
+cd crud-users-with-adonisjs
+```
+
 Instale as dependências
 ```
 npm install
