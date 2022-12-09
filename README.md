@@ -38,11 +38,11 @@ endpoint | Método | Descrição
 /users | GET | Busca todos os usuários
 /users/:id | GET | Busca usuário por ID
 /users | POST | Registra usuário
-/users/:id | PUT | Editar usuário
+/users/:id | PUT | Edita usuário
 /users/:id | DELETE | Deleta usuário
 
 ### /login - /logout
 endpoint | Método | Descrição
 ---|---|---
-/login | POST | Busca todos os usuários
-/logout | GET | Busca usuário por ID
+/login | POST | Realiza o login
+/logout | GET | Realiza o logout
